@@ -1,0 +1,8 @@
+.hideColorPicker {
+    display: none;
+}
+
+.colorPickerModal {
+    /* z-index:5;
+    box-shadow: 10px 5px 5px darkgrey; */
+}

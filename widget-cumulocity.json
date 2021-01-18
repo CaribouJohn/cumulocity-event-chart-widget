@@ -1,0 +1,13 @@
+{
+  "name": "Cumulocity Event Chart",
+  "contextPath": "cumulocity-event-chart-widget",
+  "key": "cumulocity-event-chart-widget-application-key",
+  "contentSecurityPolicy": "default-src 'self'",
+  "description": "Widget to display event data in a chart",
+  "icon": {
+    "class": "fa fw fa-sun-o"
+  },
+  "manifest": {
+    "noAppSwitcher": true
+  }
+}

@@ -1,0 +1,14 @@
+.cumulocity-measurement-chart-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.datePickerDiv {
+    padding: 0.5em !important;
+}
+
+.chart {
+    display: block;
+    width: 90%;
+    height: inherit;
+}
