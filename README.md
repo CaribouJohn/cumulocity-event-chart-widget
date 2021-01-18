@@ -1,7 +1,7 @@
 ﻿# Cumulocity Event Chart widget 
 
 
-![CumulocityEventChart Widget](styles/previewimage.png)
+![CumulocityEventChart Widget](styles/previewImage.png)
 
 ## Features
 
